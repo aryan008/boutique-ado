@@ -1,2 +1,3 @@
 pip3 install django-allauth
 pip3 install django
+pip3 install pillow
